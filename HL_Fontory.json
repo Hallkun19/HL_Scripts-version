@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "date": "2026/1/22",
-  "changelogJP": "- 多数のソフトで起動できない問題を修正",
-  "changelogEN": "- Fixed an issue where the software would not launch on multiple applications"
+  "changelogJP": "- gitを導入したことにより、多数のソフトで起動できない問題を修正",
+  "changelogEN": "- Fixed an issue where numerous applications could not be launched due to the introduction of Git"
 }
