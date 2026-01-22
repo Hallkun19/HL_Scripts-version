@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "date": "2026/1/22",
-  "changelogJP": "- Illustrator, Photoshopのサポートを追加\n- フォルダのエクスポート/インポート機能を追加\n- プロジェクトのフォントを収集してフォルダにする機能を追加",
-  "changelogEN": "- Added support for Illustrator and Photoshop\n- Added folder export/import functionality\n- Added functionality to collect project fonts into a folder"
+  "changelogJP": "- 多数のソフトで起動できない問題を修正",
+  "changelogEN": "- Fixed an issue where the software would not launch on multiple applications"
 }
